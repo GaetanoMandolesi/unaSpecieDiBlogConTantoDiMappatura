@@ -1,0 +1,14 @@
+1) - Ricordarsi di perfezionare il nome del Data Base nella stringa di connessione;
+2) - nel sorgente dell'Applicazione (nello "Screen1" - BLOCCHI):
+	- Aggiornare il nome del sito e della cartella che contiene i php,
+	- nei due posti indicati dalla corrispondente "leggimi-2.PNG".
+3) - nel sorgente dell'Applicazione (nello "Schermo Servizi" - BLOCCHI ):
+	- Aggiornare il nome del sito, e della cartella che contiene i php,
+	- nei cinque posti indicati dalla corrispondente "leggimi-3.PNG".
+4) - nel sorgente dell'Applicazione (nello "Schermo Servizi" - PROGETTAZIONE):
+	- Aggiornare il nome del sito, e della cartella che contiene i php,
+	- nei cinque posti indicati dalla corrispondente "leggimi-4.PNG".
+
+
+N.B. Il File *.aia, va importato dall'ambiente di lavoro "http://ai2.appinventor.mit.edu/"; 
+	vi si può accedere con le credenziali di Google.
